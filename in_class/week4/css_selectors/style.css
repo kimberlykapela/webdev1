@@ -1,0 +1,21 @@
+.top-section {
+    background:lightseagreen;
+ }
+ 
+ 
+ h1{
+    color: red;
+}
+
+.regular-text {
+    font size: 30px;
+}
+
+.cool-text {
+    color: magenta;
+    font-family:
+    cursive;
+}
+.large-text {
+    font-size: 40px;
+}

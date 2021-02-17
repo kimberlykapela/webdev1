@@ -1,0 +1,31 @@
+body{
+    background-color: lightpink;
+}
+
+
+
+h1{   
+    color:black;
+    background: rgb(214, 69, 214);
+    text-align: center;
+}
+
+h2{
+   color: black;
+   background: coral;
+   text-align: center;
+
+
+}
+
+div {
+font-size: 60px;
+background: rgb(174, 198, 221);
+text-align: center;
+padding: 30px;
+border: 10px solid blue;
+
+
+
+margin: 60px;
+}

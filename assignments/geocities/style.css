@@ -1,0 +1,28 @@
+body {
+    background-image:url('gifs/sparklecloud.gif')
+}
+
+h1 {
+    background: rgb(161, 233, 182);
+    padding: .50em;
+    color:rgb(206, 33, 206);
+    font-family: cursive;
+}
+
+h2 {
+    color: rgb(40, 14, 112);
+}
+h3 {
+    color: rgb(38, 187, 71);
+    background: rgb(236, 236, 175);
+    padding: 1em;
+    font-family:fantasy;
+}
+img {
+    width: 200px;
+}
+
+.cool-text {
+    color:rgb(206, 33, 206);
+    font-family: cursive;
+}

@@ -1,0 +1,171 @@
+body {
+    background-color: #505aee;
+    background-image: url("https://web.archive.org/web/20091027064258/http://geocities.com/rubi7777777/angelflutder.gif");
+  }
+
+  .phone {
+        border: 2px solid rgb(47, 0, 255);
+        border-radius: 15px;
+        height: 700px;
+        width: 500px;
+        box-shadow: 10px 10px 8px #999696;
+        background-image: url("https://i.pinimg.com/474x/f4/4b/f3/f44bf39c1950034467e899a64ced8b56.jpg");
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+
+      }
+      
+      .p {
+        color: #b11e42;
+    }
+  
+      .box1 {
+        width: 100px;
+        height: 100px;
+        background: #ee7eb8;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box2 {
+        width: 100px;
+        height: 100px;
+        background: #90dfff;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box3 {
+        width: 100px;
+        height: 100px;
+        background: rgb(121, 163, 241);
+        margin: 2px;
+        border-radius: 10px;
+        flex-direction: row;
+      }
+      .box4 {
+        width: 100px;
+        height: 100px;
+        background: #f14777;
+        margin: 2px;
+        border-radius: 10px
+        
+      }
+      .box5 {
+        width: 100px;
+        height: 100px;
+        background:#72eb5a;
+        margin: 2px;
+        flex-direction: row;
+        border-radius: 10px
+      }
+      .box6 {
+        width: 100px;
+        height: 100px;
+        background: #ae96f1;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box7 {
+        width: 100px;
+        height: 100px;
+        background:#df70cc;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box8 {
+        width: 100px;
+        height: 100px;
+        background: #eaff9c;
+        margin: 2px;
+        border-radius: 10px
+      }  
+      .box9 {
+        width: 100px;
+        height: 100px;
+        background: #7779f7;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box10 {
+        width: 100px;
+        height: 100px;
+        background: #bd69f5;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box11 {
+        width: 100px;
+        height: 100px;
+        background: #fc9663;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box12 {
+        width: 100px;
+        height: 100px;
+        background: #fa67a4;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box13 {
+        width: 100px;
+        height: 100px;
+        background: #80f7a4;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box14 {
+        width: 100px;
+        height: 100px;
+        background: #f8a5ba;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box15 {
+        width: 100px;
+        height: 100px;
+        background: #f37ed6;
+        margin: 2px;
+        border-radius: 10px
+      } 
+      .box16 {
+        width: 100px;
+        height: 100px;
+        background: #c8f58e;
+        margin: 2px;
+        border-radius: 10px;
+      }
+
+      .box17 {
+          width: 100px;
+          height: 100px;
+        background: #9bffd0;
+        margin: 2px;
+        border-radius: 10px;
+      }
+
+      .box18 {
+          width: 100px;
+          height: 100px;
+          background-color: cyan;
+          margin: 2px;
+          border-radius: 10px;
+      }
+
+      .box19 {
+          width: 100px;
+          height: 100px;
+          background-color: rgb(181, 255, 97);
+          margin: 2px;
+          border-radius: 10px;
+      }
+
+      .box20 {
+          width: 100px;
+          height: 100px;
+          background-color: rgb(253, 70, 168);
+          margin: 2px;
+          border-radius: 10px;
+      }

@@ -1,0 +1,25 @@
+body {
+    background-color: #c5f0ce;
+    background-image: url(https://web.archive.org/web/20090727091159/http://www.geocities.com/charmingaffects/images/gif-fairyglobe.gif);
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+img {
+    width: 43%;
+    height: auto;
+  }
+
+h1 {
+    color: #eb2fcb;
+}
+
+a {
+    color: #953bce;
+}

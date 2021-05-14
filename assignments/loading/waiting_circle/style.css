@@ -1,0 +1,40 @@
+body {
+    background-color: #fff1c4;
+    background-image: url(https://web.archive.org/web/20090728090059/http://www.geocities.com/lorelei303/rosecrying.gif);
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+h4 {
+    color: #c7abd4;
+}
+
+img {
+    animation-name: spin-n-move;
+    animation-duration: 8s;
+    animation-delay: .1s;
+    animation-fill-mode: forwards;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  
+  @keyframes spin-n-move {
+    0% {
+      transform: translate(-60px, 40px) rotateZ(0deg);
+    }
+    10% {
+      transform: translate(60px, 20px) rotateZ(0deg);
+    }
+    50% {
+      transform: translate(10px, -80px) rotateZ(0deg);
+    }
+    70% {
+      transform: translate(-180px, 60px) rotateZ(0deg);
+    }

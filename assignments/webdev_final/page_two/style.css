@@ -1,0 +1,142 @@
+body {
+    background-color: #c2d4f2;
+}
+
+.inner {
+    width: 300px;
+    height: 160px;
+    position: fixed;
+    right: 900px;
+    bottom: 270px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img {
+    max-width: 300px;
+}
+
+.inner2 {
+    width: 500px;
+    height: 250px;
+    position: fixed;
+    left: 320px;
+    bottom: 280px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+border: 1px solid black;
+font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    color: #202e45;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:hover
+{
+    font-style: normal;
+    color: grey;
+}
+
+
+.inner4 {
+    width: 500px;
+    height: 230px;
+    position: fixed;
+    left: 320px;
+    bottom: 30px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+border: 1px solid black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+
+p {
+font-size: 12px;
+}
+
+.inner5 {
+    width: 300px;
+    height: 170px;
+    position: fixed;
+    right: -10px;
+    bottom: 30px;
+    margin: 50px 50px 0 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.img2 {
+max-width: 300px;
+}
+
+.cloud {
+    max-width: 100px;
+    position: fixed;
+    left: 990px;
+    top: 50px;
+    animation: myFirst 5s infinite;
+    animation-direction: linear infinite alternate;
+  }
+  
+  @keyframes myFirst {
+    0% { left: 900px;}
+    50% { left: 92%;}
+    100% { left: 900px;}
+   
+  }
+  .cloud2 {
+      max-width: 100px;
+      position: fixed;
+      left: 900px;
+      top: 130px;
+      animation: cloud 5s infinite;
+      animation-direction: linear infinite alternate;
+    }
+    
+    @keyframes cloud {
+        0% { left: 950px;}
+        50% { left: 87%;}
+        100% { left: 950px;}
+     
+    }
+
+    .cloud3 {
+        max-width: 100px;
+        position: fixed;
+        left: 900px;
+        bottom: 80px;
+        animation: slide 5s infinite;
+        animation-direction: linear infinite alternate;
+      }
+
+      @keyframes slide {
+        0% { left: 5px;}
+        50% { left: 15%;}
+        100% { left: 5px;}
+     
+    }
+
+    .cloud4 {
+        max-width: 100px;
+        position: fixed;
+        left: 900px;
+        bottom: 160px;
+        animation: fourth 5s infinite;
+        animation-direction: linear infinite alternate;
+      }
+
+      @keyframes fourth {
+        0% { left: 5px;}
+        50% { left: 20%;}
+        100% { left: 5px;}
+     
+    }
